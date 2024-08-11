@@ -147,6 +147,7 @@ export default function Home() {
 								</svg>
 							</div>
 						</a>
+						
 					</div>
 				</div>
 				<span className={styles.scroll_botom} id="scroll_bottom">made with ❤️</span>

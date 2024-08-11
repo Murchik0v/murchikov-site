@@ -1,6 +1,6 @@
 services:
   andcool_site:
-    container_name: andcool_site
+    container_name: murchikov_site
     ports:
       - "4000:4000"
     build: 
